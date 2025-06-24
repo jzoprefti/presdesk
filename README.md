@@ -1,8 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-## ERPref
 
-Desenvolvendo pela primeira vez um ERP, ou pelo menos tentando
+## prefdesk
+
+Desenvolvendo pela primeira vez um help-desk, ou pelo menos tentando
 
 ## License
 
